@@ -1,7 +1,5 @@
 from SquadStack.main import ParkingLot, operate_parking_lot
 import os
-import sys
-print(sys.path)
 
 
 class TestParkingLot:
