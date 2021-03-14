@@ -1,18 +1,20 @@
-Instructions to create/activate virtualenv for python3 setup:
+PARKING LOT SYSTEM
 
-https://www.akbaribrahim.com/managing-python-virtual-environments-with-pyenv-virtualenv/
+SETUP INSTRUCTIONS:
+
+1. Instructions to create/activate virtualenv for python3 setup: https://www.akbaribrahim.com/managing-python-virtual-environments-with-pyenv-virtualenv/
+
+2. Clone the SquadStack repo into your local machine
+
+3. Checkout the directory: `cd SquadStack`
 
 Instructions to run the main code:
 
-1. Clone the SquadStack repo into your local machine
+1. The codebase contains input.txt which is the example input provided in the test instructions
 
-2. Checkout the directory: `cd SquadStack`
+2. Run the following command in Terminal: `python3 main.py input`
 
-3. Contains input.txt which is the example input provided in the test instructions
-
-4. Run the following command on Terminal: `python3 main.py input`
-
-5. The program accepts any input file
+3. The program accepts any input file
 
 
 Instructions to run unit tests:
