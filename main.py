@@ -169,7 +169,7 @@ def operate_parking_lot(contents):
 if __name__ == "__main__":
     #Check if input file is passed
     if not len(sys.argv) > 1:
-        print("Please pass a input file")
+        print("Please pass an input file")
         exit()
     filename = sys.argv[1]
     #Open the file and read the contents
